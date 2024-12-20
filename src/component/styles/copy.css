@@ -1,0 +1,26 @@
+.copyright {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .text-black {
+    color: #333;
+    font-size: 0.9rem;
+  }
+  
+  .text-black a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .text-black a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .text-black {
+      font-size: 0.8rem;
+    }
+  }
+  
